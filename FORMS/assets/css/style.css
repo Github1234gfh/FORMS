@@ -12,7 +12,7 @@
     width: 100%;
     max-width: 568px;
     width: 568px;
-    height: 811px;
+    height: 830px;
     background: #FFFFFF;
     border-radius: 2px;
     opacity: 0.9;
@@ -348,7 +348,6 @@ label span {
 }
 
 .registration__2__text__end {
-    border-left: 1px solid #C4C4C4;
     text-decoration: none;
     font-style: normal;
     font-weight: 400;
@@ -375,7 +374,7 @@ label span {
 
 
 
-/* registration 3*/
+/* registration 3 */
 .registration__3 {
     font-family: 'Montserrat', sans-serif;
     max-width: 1680px;
